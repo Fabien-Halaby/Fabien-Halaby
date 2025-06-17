@@ -15,7 +15,8 @@ You can click the Preview link to take a look at your changes.
 <h3 align="center">Développeur Full Stack | Étudiant en Informatique | Passionné par l’IA et l’Innovation</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00F700&center=true&vCenter=true&width=440&lines=Bienvenue+sur+mon+GitHub+!;Développeur+Web+%7C+Mobile+%7C+Data+Enthusiast;Toujours+en+mode+Apprentissage+🚀" alt="Typing SVG" />
+  <img src="https://vignolastrategies.com/wp-content/uploads/2021/11/Comment-de%CC%81velopper-son-entreprise-.png" alt="Typing SVG" />
+  
 </p>
 
 ---
@@ -34,7 +35,7 @@ You can click the Preview link to take a look at your changes.
 ### 🧰 Stack technique
 
 ```bash
-💻 Languages : C, C++, JavaScript, PHP, Python, Java  
-🧰 Front-end : React, HTML5, CSS3, Bootstrap, Tailwind  
+💻 Languages : C, C++, JavaScript, PHP, Python, Rust, Go
+🧰 Front-end : React, Nextjs, Bootstrap, Tailwind  
 🔧 Back-end : Node.js, Express.js, PHP (Laravel), MySQL  
-📦 Outils : Git, VS Code, Pydroid, Expo, Linux Ubuntu  
+📦 Outils : Git, VS Code, Expo, Postman, Linux Ubuntu
