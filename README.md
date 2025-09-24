@@ -1,10 +1,8 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Fabien Halaby
 ======================================================================================================================================
 
-React - Golang developer
+React - React Native - Golang developer
 ------------------------
-
-Passionate full-stack developer specializing in React for modern, responsive UIs and Golang for scalable, high-performance backends. I love building clean, efficient, and impactful applications.
 
 *   🌍  I'm based in Antananarivo, Madagascar
 *   🖥️  See my portfolio at [fabien-dev](http://fabien-dev.vercel.app)
