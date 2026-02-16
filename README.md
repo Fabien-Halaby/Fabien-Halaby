@@ -61,7 +61,7 @@ React - React Native - Golang developer
     />
   </a>
   <a href="https://www.nestjs.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/netjs-colored.svg" alt="Docker" title="Nestjs" 
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nestjs-colored.svg" alt="Docker" title="Nestjs" 
       width="36" height="36" 
     />
   </a>
