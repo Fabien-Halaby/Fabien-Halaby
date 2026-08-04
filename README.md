@@ -1,69 +1,64 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Fabien Halaby
-======================================================================================================================================
+<div align="center">
 
-React - React Native - Golang - Nest developer
-------------------------
+# Hi, I'm Fabien 👋
 
-*   🌍  I'm based in Antananarivo, Madagascar
-*   👥  I'm looking to collaborate on Full-stack web projects using React and Golang, API development or integration and Open-source tools for developers
-*   💬  Ask me about Always eager to learn new technologies and share knowledge with the dev community. Coffee-powered coding sessions guaranteed.
+**Go Backend Developer | AI Systems & Infrastructure**
 
-  ### Socials
-                
-  <p align="left"> <a href="https://www.github.com/Fabien-Halaby" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.x.com/FabienHalaby" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" alt="Twitter" title="Twitter" /> </picture> </a> <a href="https://www.linkedin.com/in/fabien-halaby-170746310" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a> <a href="https://discord.com/users/fabienhalaby_93660" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" alt="Discord" title="Discord" /> </picture> </a> <a href="https://www.facebook.com/fabienhalaby.rajo" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" alt="Facebook" title="Facebook" /> </picture> </a></p>
-<a href="https://www.github.com/Fabien-Halaby" target="_blank" rel="noreferrer"><img
-                src="https://img.shields.io/github/followers/Fabien-Halaby?logo=github&style=for-the-badge&color=84cc16&labelColor=27272a" /></a>
+[![English](https://img.shields.io/badge/🇬🇧-English-blue?style=for-the-badge)](#-english)
+[![Français](https://img.shields.io/badge/🇫🇷-Français-blue?style=for-the-badge)](#-français)
 
-<p align="left">
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" alt="TypeScript"
-      title="TypeScript" width="36" height="36" 
-    />
-  </a>
-  <a href="https://go.dev/doc/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" alt="Go" title="Go" width="36"
-      height="36" 
-    />
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36"
-      height="36"
-    />
-  </a>
- <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" title="React" width="36"
-     height="36"
-    />
- </a>
-  <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" alt="NextJs" title="NextJs"
-      width="36" height="36" 
-    />
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" alt="Docker" title="Docker" 
-      width="36" height="36" 
-    />
-  </a>
-  <a href="https://www.nestjs.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nestjs-colored.svg" alt="Docker" title="Nestjs" 
-      width="36" height="36" 
-    />
-  </a>
-  <a href="https://kubernetes.io/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kubernetes-colored.svg" alt="Kubernetes" 
-      title="Kubernetes" width="36" height="36"
-    />
-  </a>
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" alt="PyTorch" title="PyTorch"
-      width="36" height="36" 
-    />
-  </a>
-  <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" alt="TensorFlow" 
-      title="TensorFlow" width="36" height="36" 
-    />
-  </a>
-</p>
-                  
+</div>
+
+---
+
+<a name="-english"></a>
+## 🇬🇧 English
+
+I'm a backend developer focused on **Go**, **distributed systems**, and increasingly, the infrastructure layer connecting **AI agents to real-world data**. I care about writing systems that are simple to reason about, secure by design, and cheap to run.
+
+🔭 **Currently building:** [`Datara`](https://github.com/Fabien-Halaby/datara) ; a Zero-Trust MCP gateway that lets AI agents (Claude, ChatGPT, Cursor) query private databases safely, by parsing every SQL query at the AST level and rejecting anything that isn't a strict read-only `SELECT`.
+
+🌱 **Currently exploring:** the Model Context Protocol ecosystem, and how to design backend systems that AI agents can use safely without becoming a liability.
+
+🎯 **Looking for:** remote backend/AI engineering roles where I can work on infrastructure, developer tools, or systems that sit at the intersection of AI and traditional backend engineering.
+
+📫 **Reach me:** [LinkedIn](<https://linkedin.com/in/fabienhalaby>) · [Email](mailto:<contact@fabienhalaby.me>)
+
+---
+
+<a name="-français"></a>
+## 🇫🇷 Français
+
+Développeur backend spécialisé en **Go**, systèmes distribués, et de plus en plus, la couche d'infrastructure qui connecte les **agents IA aux données réelles**. J'aime concevoir des systèmes simples à comprendre, sûrs par conception, et peu coûteux à faire tourner.
+
+🔭 **En cours de construction :** [`Datara`](https://github.com/Fabien-Halaby/datara) ; une passerelle MCP Zero-Trust qui permet aux agents IA (Claude, ChatGPT, Cursor) d'interroger des bases de données privées en toute sécurité, en analysant chaque requête SQL au niveau de son arbre syntaxique (AST) et en rejetant tout ce qui n'est pas un `SELECT` strictement en lecture seule.
+
+🌱 **En cours d'exploration :** l'écosystème du Model Context Protocol, et comment concevoir des systèmes backend que des agents IA peuvent utiliser sans risque.
+
+🎯 **Recherche actuelle :** un poste backend/AI en remote, où je peux travailler sur de l'infrastructure, des outils pour développeurs, ou des systèmes à l'intersection de l'IA et du backend traditionnel.
+
+📫 **Me contacter :** [LinkedIn](<https://linkedin.com/in/fabienhalaby>) · [Email](mailto:<contact@fabienhalaby.me>)
+
+---
+
+<div align="center">
+
+### 🛠️ Tech Stack
+
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-8A2BE2?style=for-the-badge)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+### 📌 Featured project
+
+[![Datara](https://github-readme-stats.vercel.app/api/pin/?username=Fabien-Halaby&repo=datara&theme=default)](https://github.com/Fabien-Halaby/datara)
+
+### 📊 GitHub Stats
+
+![Fabien's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fabien-Halaby&show_icons=true&theme=default&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Fabien-Halaby&layout=compact&theme=default&hide_border=true)
+
+</div>
