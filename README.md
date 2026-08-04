@@ -52,10 +52,6 @@ Développeur backend spécialisé en **Go**, systèmes distribués, et de plus e
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-### 📌 Featured project
-
-[![Datara](https://github-readme-stats.vercel.app/api/pin/?username=Fabien-Halaby&repo=datara&theme=default)](https://github.com/Fabien-Halaby/datara)
-
 ### 📊 GitHub Stats
 
 ![Fabien's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fabien-Halaby&show_icons=true&theme=default&hide_border=true)
